@@ -3,7 +3,7 @@
  *
  * Author: Anne van Rossum
  * Date: Sep 30, 2014
- * License: LGPLv3+
+ * License: LGPLv3+, MIT, or Apache (your choice)
  * Copyrights: Distributed Organisms B.V. (http://www.dobots.nl)
  */
 
