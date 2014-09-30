@@ -22,6 +22,10 @@ you have to have the `NOBLE_HCI_DEVICE_ID=1` environmental variable as indicated
 
 If you want more information on how I obtained the above passwords, etc., feel free to contact me.
 
+<p align="center">
+<img src="pictures/lamp.jpg?raw=true" alt="Picture of a lamp with the bulb" height="500px"/>
+</p>
+
 # Copyrights
 
 * Author: Anne van Rossum
