@@ -253,6 +253,7 @@ var lumini = (function() {
 			for (var i = 0; i < 3; i++) {
 					cmd[i+1] = color[i];
 			}
+			log.info("Set led to color " + color[0] + ' ' + color[1] + ' ' + color[2]);
 			var data = createCommand(cmd);
 			print(data);
 			var encrypted = encrypt(data);
